@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ESNEXT",
+    "allowJs": true,
+    "declaration": true,
+    "outDir": "dist",
+    "isolatedModules": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "paths": {},
+    "esModuleInterop": true,
+    "experimentalDecorators": true
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
